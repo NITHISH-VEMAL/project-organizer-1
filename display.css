@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color:#d7fffc ;
+    text-align: center;
+    
+    font-family: 'PT Sans';
+    font-size: 15px;
+   
+}
+h3{
+	margin-left:10%;
+	background-color:white;
+	width:15%;
+	border-radius:10px;
+}
+h4{
+	border-radius:10px;
+	padding:10px 20px;
+	margin-left:15%;
+	background-color:white;
+	width:25%;
+}
